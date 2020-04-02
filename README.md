@@ -1,6 +1,7 @@
 # Python one-liner bind shell
-A python bind shell single line code for both Unix and Windows. This special useful for pentester when they found an RCE in a python server but they can't create a new file, special when you found an Imagemagick or Ghostscript RCE, inject this code to the payload and let see does the server vulnerable. This also helps adminstrator to create a bind shell to the server with just a single code, very simple. 
-Note: Shell supports 'cd' command.
+A python bind shell single line code for both Unix and Windows. This special useful for pentester when they found an RCE in a python server but they can't create a new file, special when you found an Imagemagick or Ghostscript RCE, inject this code to the payload and let see does the server vulnerable. This also helps adminstrator to create a bind shell to the server with just a single code, very simple.  
+
+**Note: Shell supports 'cd' command.**
 
 
 # Payloads:
