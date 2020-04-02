@@ -1,5 +1,5 @@
 # Python one-liner bind shell
-A python bind shell single line code for both Unix and Windows, you can use this on whatever python version you like (2 or 3). This special useful for pentester when they found an RCE in a python server but they can't create a new file. Also adminstrator will able to create a bind shell to server with just a single code very simple.
+A python bind shell single line code for both Unix and Windows. This special useful for pentester when they found an RCE in a python server but they can't create a new file. Also adminstrator will able to create a bind shell to server with just a single code very simple.
 
 #Payloads:
 ##The host command (to create a bind shell):
